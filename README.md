@@ -4,4 +4,4 @@
 
 My older primary school open source project. I have a 3pi robot that follows the line on my floor.
 
-I code it in CodeVisionAVR in my favourite language C. 😃
+I code it in my favourite language C in Atmel Studio IDE 🐞.
