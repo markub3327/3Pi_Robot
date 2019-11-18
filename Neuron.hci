@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:4D385224
+NODE:M LEVEL:0 LINE:2 "_NEURON_H_INCLUDED_"
+NODE:I LEVEL:0 LINE:4 "D:\Program Files (x86)\cvavr\inc\stdint.h"
+NODE:I LEVEL:0 LINE:5 "D:\Program Files (x86)\cvavr\inc\stdlib.h"
+NODE:I LEVEL:0 LINE:6 "D:\Program Files (x86)\cvavr\inc\math.h"
+NODE:M LEVEL:0 LINE:8 "Delta"
+NODE:M LEVEL:0 LINE:9 "ERR_MAX"
+NODE:F LEVEL:0 LINE:11 "Init(float * Weights,int N)"
+NODE:F LEVEL:0 LINE:21 "GetOutput(float * Inputs,float * Weights,int N)"
+NODE:F LEVEL:0 LINE:37 "NewWeights(float * Weights,float * Inputs,float ni,float delta,int N)"

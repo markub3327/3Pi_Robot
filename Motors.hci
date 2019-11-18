@@ -1,0 +1,4 @@
+VERSION:3 SOURCE_TIMESTAMP:4D290BA8
+NODE:M LEVEL:0 LINE:2 "_MOTORS_H_INCLUDED_"
+NODE:I LEVEL:0 LINE:4 "D:\Program Files (x86)\cvavr\inc\stdbool.h"
+NODE:F LEVEL:0 LINE:6 "Motors_setSpeeds(int speedM1,int speedM2)"

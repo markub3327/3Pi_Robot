@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:4D3854CA
+NODE:M LEVEL:0 LINE:2 "_IR_reflex_H_INCLUDED_"
+NODE:I LEVEL:0 LINE:4 "D:\Program Files (x86)\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:5 "D:\Program Files (x86)\cvavr\inc\stdint.h"
+NODE:I LEVEL:0 LINE:7 "Micros.h"
+NODE:M LEVEL:0 LINE:9 "numSensors"
+NODE:C LEVEL:0 LINE:11 "Line_Pins -> FLASH"
+NODE:V LEVEL:0 LINE:12 "calibratedMaximum -> R3,R4"
+NODE:V LEVEL:0 LINE:12 "calibratedMinimum -> R5,R6"
+NODE:F LEVEL:0 LINE:15 "Line_read(uint16_t * lineValue)"
+NODE:F LEVEL:0 LINE:76 "Line_autoCalib(uint16_t * lineValue)"
+NODE:F LEVEL:0 LINE:99 "Line_readLine(uint16_t * _lineValue)"
